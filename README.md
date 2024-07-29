@@ -1,4 +1,4 @@
-#Recommender system for e-commerce
+##Recommender system for e-commerce
 
 #### **1.1. Project Overview**
 
